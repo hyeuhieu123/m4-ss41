@@ -5,6 +5,7 @@ export default {
     extend: {
       spacing: {
         50: "200px",
+        "500px": "500px",
       },
     },
   },
